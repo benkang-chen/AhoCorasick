@@ -1,0 +1,19 @@
+/build
+/log
+/target
+/.settings
+/.DS_Store
+.classpath
+.project
+target
+/bin
+#idea
+*.iml
+## Directory-based project format:
+.idea/
+# IntelliJ
+out/
+target/
+## File-based project format:
+*.ipr
+*.iws
